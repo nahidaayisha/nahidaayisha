@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm Ayisha Nahida  
+<h1 align="center">👋 Hi there! I'm Ayisha Nahida</h1>  
 🚀 **Flutter Developer | Program Executive Intern | Tech Enthusiast**  
 
 🔹 Passionate about building **innovative mobile applications**  
