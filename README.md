@@ -1,16 +1,35 @@
-## Hi there 👋
+## 👋 Hi there! I'm Ayisha Nahida  
+🚀 **Flutter Developer | Program Executive Intern | Tech Enthusiast**  
 
-<!--
-**nahidaayisha/nahidaayisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Passionate about building **innovative mobile applications**  
+🔹 Skilled in **project management** and **startup operations**  
+🔹 Currently interning at **Talrop Private Limited**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with Me:  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ayisha-nahida-poovalappil-4301b1258)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/nahidaayisha)  
+📧 **Email:** ayishanahidap@gmail.com  
+📄 **[Resume](sandbox:/mnt/data/Ayisha_Nahida_Resume%20(1)%20(1).pdf)**  
+
+---
+
+### 🚀 Projects & Repositories:  
+🌟 **Law4Her**  
+🔹 AI-powered legal assistance app for women  
+🔹 Features: Chatbot, Anonymous Forum, Lawyer Consultations  
+🔹 Tech Stack: Flutter, Firebase, FastAPI  
+[GitHub Repo](https://github.com/nahidaayisha/law4Her)  
+
+🌟 **EventON**  
+🔹 College event management app  
+🔹 Features: QR Code Authentication, Chatbot Assistance  
+🔹 Tech Stack: Flutter, Firebase  
+[GitHub Repo](https://github.com/nahidaayisha/EventON)  
+
+---
+
+### 📜 Certifications:  
+🏆 [Accenture North America Project Management Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/T6kdcdKSTfg2aotxT/tHFz7Bfjmh35DXQv6_T6kdcdKSTfg2aotxT_4fdLQXjJrTnASMQNa_1741461356991_completion_certificate.pdf)  
+🏆 [CBRE Project Management Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PDmHHPmLyCgdQWzdt/STkypM8iMfn4Gk9BF_PDmHHPmLyCgdQWzdt_4fdLQXjJrTnASMQNa_1741465182678_completion_certificate.pdf)  
