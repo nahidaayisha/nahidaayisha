@@ -11,7 +11,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ayisha-nahida-poovalappil-4301b1258" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40" style="margin-right: 30px;">
   </a>
   <a href="mailto:ayishanahidap@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="40">
