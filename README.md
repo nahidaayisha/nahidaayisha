@@ -10,8 +10,7 @@
 ### 📫 Connect with Me:  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ayisha-nahida-poovalappil-4301b1258)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/nahidaayisha)  
-📧 **Email:** ayishanahidap@gmail.com  
-📄 **[Resume](sandbox:/mnt/data/Ayisha_Nahida_Resume%20(1)%20(1).pdf)**  
+📧 **Email:** ayishanahidap@gmail.com
 
 ---
 
